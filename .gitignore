@@ -1,0 +1,51 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de VSCode o PyCharm
+.vscode/
+.idea/
+
+# Archivos de logs y bases temporales
+*.log
+*.sqlite3
+
+# Modelos pesados
+*.pt
+*.h5
+*.ckpt
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de salida de Streamlit o temporales
+*.temp
+*.tmp
+*.bak
+*.old
+
+# Salidas de análisis o datos intermedios
+*.csv
+*.json
+*.xlsx
+*.pdf
+
+# Archivos ocultos de Jupyter o colab
+.ipynb_checkpoints
+
+# Datos del usuario que no deben compartirse
+.env
+*.secret
+token.txt
+
+# Archivos de build/instalación
+build/
+dist/
+*.egg-info/
