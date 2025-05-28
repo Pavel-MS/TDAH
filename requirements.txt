@@ -1,0 +1,16 @@
+streamlit
+opencv-python
+numpy
+pandas
+fpdf
+ultralytics
+cv2
+tempfile
+json
+ultralytics
+YOLO
+io
+BytesIO
+fpdf
+FPDF
+datetime 
